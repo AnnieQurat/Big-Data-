@@ -3,9 +3,9 @@
 ## Contents
 
 1. [Short description](#short-description)
-1. [Twitter Connectivity Score 1](#twitter-connectivity-score-1)
-1. [Twitter Connectivity Score 2](#twitter-connectivity-Score-2)
-1. [Modes of Income per City](#modes-of-income-per-city)
+1. [1. Twitter Connectivity Score 1](#twitter-connectivity-score-1)
+1. [2. Twitter Connectivity Score 2](#twitter-connectivity-Score-2)
+1. [3. Modes of Income per City](#modes-of-income-per-city)
 
 ## Short description
 
